@@ -1,0 +1,66 @@
+7:906  0:238  Found UEFI Acpi 2.0 RSDP at 87FFD014
+7:906  0:000  Saving ACPI tables from RSDP 87FFD014 to EFI\CLOVER\ACPI\origin ...
+7:906  0:000   87FFD014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+7:906  0:000    (Xsdt: 87FCB188, Rsdt: 87FCB0C4)
+7:906  0:000    87FCB188: 'XSDT', 'CB-01   ', Rev: 1, Len: 244
+7:906  0:000    87FCB0C4: 'RSDT', 'CB-01   ', Rev: 1, Len: 140
+7:906  0:000    Tables in Xsdt: 26
+7:906  0:000    0. 87FEB000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+7:906  0:000        (Dsdt: 87FD0000, Facs: 87F4E000, XDsdt: 87FD0000, XFacs: 0)
+7:906  0:000        87FD0000: 'DSDT', 'CB-01   ', Rev: 2, Len: 93330
+7:908  0:001        87F4E000: 'FACS', Ver: 2, Len: 64
+7:908  0:000    1. 87FFC000: 'TCPA', 'CB-01   ', Rev: 2, Len: 50
+7:908  0:000    2. 87FFB000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+7:908  0:000    3. 87FFA000: 'UEFI', 'CB-01   ', Rev: 1, Len: 66
+7:908  0:000    4. 87FF9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1207
+7:908  0:000    5. 87FF8000: 'SSDT', 'CB-01   ', Rev: 2, Len: 75
+7:908  0:000    6. 87FF7000: 'TPM2', 'CB-01   ', Rev: 3, Len: 52
+7:908  0:000    7. 87FF6000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+7:908  0:000    8. 87FF2000: 'SSDT', 'CB-01   ', Rev: 2, Len: 12457
+7:908  0:000    9. 87FF1000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+7:908  0:000    10. 87FF0000: 'DBG2', 'CB-01   ', Rev: 0, Len: 84
+7:908  0:000    11. 87FEF000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+7:908  0:000    12. 87FEE000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+7:908  0:000    13. 87FED000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+7:908  0:000    14. 87FEC000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+7:908  0:000    15. 87FEA000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+7:908  0:000    16. 87FE9000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+7:908  0:000    17. 87FE8000: 'APIC', 'CB-01   ', Rev: 3, Len: 188
+7:908  0:000    18. 87FE7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+7:908  0:000    19. 87FCF000: 'SSDT', 'CB-01   ', Rev: 1, Len: 724
+7:908  0:000    20. 87FCC000: 'SSDT', 'CB-01   ', Rev: 2, Len: 11182
+7:908  0:000    21. 87FCA000: 'SSDT', 'CB-01   ', Rev: 2, Len: 2873
+7:908  0:000    22. 87FC9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 3672
+7:908  0:000    23. 87FC8000: 'DMAR', 'CB-01   ', Rev: 1, Len: 168
+7:908  0:000    24. 87FC7000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+7:908  0:000    25. 87FC6000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+7:908  0:000    Tables in Rsdt: 26
+7:908  0:000    0. 87FEB000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+7:908  0:000        (Dsdt: 87FD0000, Facs: 87F4E000, XDsdt: 87FD0000, XFacs: 0)
+7:908  0:000        87FD0000: 'DSDT', 'CB-01   ', Rev: 2, Len: 93330
+7:909  0:001        87F4E000: 'FACS', Ver: 2, Len: 64
+7:909  0:000    1. 87FFC000: 'TCPA', 'CB-01   ', Rev: 2, Len: 50
+7:909  0:000    2. 87FFB000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+7:909  0:000    3. 87FFA000: 'UEFI', 'CB-01   ', Rev: 1, Len: 66
+7:909  0:000    4. 87FF9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 1207
+7:909  0:000    5. 87FF8000: 'SSDT', 'CB-01   ', Rev: 2, Len: 75
+7:909  0:000    6. 87FF7000: 'TPM2', 'CB-01   ', Rev: 3, Len: 52
+7:909  0:000    7. 87FF6000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+7:909  0:000    8. 87FF2000: 'SSDT', 'CB-01   ', Rev: 2, Len: 12457
+7:909  0:000    9. 87FF1000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+7:909  0:000    10. 87FF0000: 'DBG2', 'CB-01   ', Rev: 0, Len: 84
+7:909  0:000    11. 87FEF000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+7:909  0:000    12. 87FEE000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+7:909  0:000    13. 87FED000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+7:909  0:000    14. 87FEC000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+7:909  0:000    15. 87FEA000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+7:909  0:000    16. 87FE9000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+7:909  0:000    17. 87FE8000: 'APIC', 'CB-01   ', Rev: 3, Len: 188
+7:909  0:000    18. 87FE7000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+7:910  0:000    19. 87FCF000: 'SSDT', 'CB-01   ', Rev: 1, Len: 724
+7:910  0:000    20. 87FCC000: 'SSDT', 'CB-01   ', Rev: 2, Len: 11182
+7:910  0:000    21. 87FCA000: 'SSDT', 'CB-01   ', Rev: 2, Len: 2873
+7:910  0:000    22. 87FC9000: 'SSDT', 'CB-01   ', Rev: 2, Len: 3672
+7:910  0:000    23. 87FC8000: 'DMAR', 'CB-01   ', Rev: 1, Len: 168
+7:910  0:000    24. 87FC7000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+7:910  0:000    25. 87FC6000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
